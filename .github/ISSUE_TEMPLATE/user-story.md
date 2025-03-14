@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: poner stiker en la pizarra
+about: plantilla corso coursera
 title: ''
 labels: ''
 assignees: ''
