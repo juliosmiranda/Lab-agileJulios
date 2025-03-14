@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: plantilla corso coursera
+about: plantilla curso coursera
 title: ''
 labels: ''
 assignees: ''
